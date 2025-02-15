@@ -1,0 +1,1 @@
+This repository demonstrates a common Perl error: division by zero. The `bug.pl` file contains code that attempts to divide by zero. The `bugSolution.pl` file shows how to avoid this error by checking for zero values before performing the division.
